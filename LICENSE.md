@@ -1,4 +1,4 @@
-# 
+# Código aberto AutoGPT plugins. Com modelos híbridos de IA e sincronização em nuvem — otimizado para máximo desempenho e eficiência.
 
 
 
